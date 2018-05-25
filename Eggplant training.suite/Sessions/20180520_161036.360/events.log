@@ -1,0 +1,4 @@
+1	0.00199997	start	
+2	13.123	mouseDown	{button:1, clickCount:1, hotSpot:[381, 16], waitFor:1.1484600001573563e+002}
+3	13.364	mouseUp	{button:1, clickCount:1, hotSpot:[381, 16]}
+4	16.031	end	

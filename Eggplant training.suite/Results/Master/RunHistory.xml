@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Master">
+ <run>
+  <RunDate>2018-05-24 16:15:18.156 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.267000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180524_161518.156/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-24 16:16:05.237 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.298000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20180524_161605.237/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-24 16:19:26.662 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.324000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180524_161926.662/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-24 16:20:14.788 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.387000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180524_162014.788/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

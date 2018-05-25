@@ -1,0 +1,22 @@
+{
+    commandList = "[{captureRect:[25, 827, 53, 858], command:@\"Click\", eventNum:2, hotSpot:[36, 246], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Chome_turbo\", searchType:@\"Tolerant\", waitFor:@\"14.0\"}, screenShotFile:@\"Screen0002.png\", skipStep:@\"YES\", waitFor:@\"14.0\"}, {captureRect:[31, 835, 44, 848], command:@\"Click\", eventNum:4, hotSpot:[33, 238], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0001\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0004.png\", skipStep:@\"YES\"}, {captureRect:[31, 835, 44, 848], command:@\"DoubleClick\", eventNum:6, hotSpot:[36, 234], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0002\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0006.png\"}, {captureRect:[62, 1019, 86, 1049], command:@\"Click\", eventNum:10, hotSpot:[123, 47], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"refresh_turbo\", searchType:@\"Precise\", waitFor:@\"3.3\"}, screenShotFile:@\"Screen0010.png\", waitFor:@\"3.3\"}, {command:@\"TypeText\", eventNum:12, screenShotFile:@\"Screen0012.png\", text:@\"\\\"www.amazon.com\\\",Return\"}]";
+    generatedCommands = (
+	"-skipped- Click (Image:\"Chome_turbo\", WaitFor:14)",
+	"-skipped- Click \"image0001\"",
+	"DoubleClick \"image0002\"",
+	"Click (Image:\"refresh_turbo\", WaitFor:3.3)",
+	"TypeText \"www.amazon.com\",Return"
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "Chome_turbo.png",
+	    "image0001.png",
+	    "image0002.png",
+	    "refresh_turbo.png",
+	    "image0002.png",
+	    "refresh_turbo.png"
+	);
+    };
+    sessionType = turboSession;
+    unnamedImageCount = <*I0>;
+}

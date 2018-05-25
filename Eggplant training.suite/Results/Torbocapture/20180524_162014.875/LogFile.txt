@@ -1,0 +1,4 @@
+﻿2018-05-24 16:20:14.882 +0530	START		Running Torbocapture.script	1	on_master	Master.script
+2018-05-24 16:20:14.919 +0530	Log		powerchart	1	on_torbocapture	Torbocapture.script
+2018-05-24 16:20:14.924 +0530	EndTestCase		(Duration:"0.036", Errors:"0", Exceptions:"0", StartTime:"2018-05-24 16:20:14 +0530", Successes:"1", TestCase:"Torbocapture.script", Warnings:"0")	1	on_master	Master.script
+2018-05-24 16:20:14.966 +0530	SUCCESS		Execution Time 0:00:00 Torbocapture.script	1	on_master	Master.script

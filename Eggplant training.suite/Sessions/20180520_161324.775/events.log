@@ -1,0 +1,42 @@
+1	0.00900006	start	
+2	4.185	mouseDown	{button:1, clickCount:1, hotSpot:[36, 246], waitFor:1.4018999934196472e+001}
+3	4.436	mouseUp	{button:1, clickCount:1, hotSpot:[36, 246]}
+4	10.664	mouseDown	{button:1, clickCount:1, hotSpot:[33, 238]}
+5	11.01	mouseUp	{button:1, clickCount:1, hotSpot:[33, 238]}
+6	14.938	mouseDown	{button:1, clickCount:1, hotSpot:[36, 234]}
+7	15.158	mouseUp	{button:1, clickCount:1, hotSpot:[36, 234]}
+8	15.372	mouseDown	{button:1, clickCount:2, hotSpot:[36, 234]}
+9	15.591	mouseUp	{button:1, clickCount:2, hotSpot:[36, 234]}
+10	20.645	mouseDown	{button:1, clickCount:1, hotSpot:[204, 44], waitFor:3.3239999413490295e+000}
+11	20.781	mouseUp	{button:1, clickCount:1, hotSpot:[204, 44]}
+12	25.226	keyDown	{modifiers:0, string:@"w", theKey:@"w"}
+13	25.449	keyUp	{modifiers:0, string:@"w", theKey:@"w"}
+14	25.494	keyDown	{modifiers:0, string:@"w", theKey:@"w"}
+15	25.64	keyUp	{modifiers:0, string:@"w", theKey:@"w"}
+16	26.745	keyDown	{modifiers:0, string:@"w", theKey:@"w"}
+17	26.944	keyUp	{modifiers:0, string:@"w", theKey:@"w"}
+18	27.568	keyDown	{modifiers:0, string:@".", theKey:@"."}
+19	27.644	keyUp	{modifiers:0, string:@".", theKey:@"."}
+20	27.86	keyDown	{modifiers:0, string:@"a", theKey:@"a"}
+21	27.995	keyUp	{modifiers:0, string:@"a", theKey:@"a"}
+22	28.111	keyDown	{modifiers:0, string:@"m", theKey:@"m"}
+23	28.194	keyUp	{modifiers:0, string:@"m", theKey:@"m"}
+24	28.44	keyDown	{modifiers:0, string:@"a", theKey:@"a"}
+25	28.573	keyUp	{modifiers:0, string:@"a", theKey:@"a"}
+26	29	keyDown	{modifiers:0, string:@"z", theKey:@"z"}
+27	29.13	keyUp	{modifiers:0, string:@"z", theKey:@"z"}
+28	29.761	keyDown	{modifiers:0, string:@"o", theKey:@"o"}
+29	29.851	keyUp	{modifiers:0, string:@"o", theKey:@"o"}
+30	30.004	keyDown	{modifiers:0, string:@"n", theKey:@"n"}
+31	30.047	keyUp	{modifiers:0, string:@"n", theKey:@"n"}
+32	30.461	keyDown	{modifiers:0, string:@".", theKey:@"."}
+33	30.524	keyUp	{modifiers:0, string:@".", theKey:@"."}
+34	30.833	keyDown	{modifiers:0, string:@"c", theKey:@"c"}
+35	30.9	keyUp	{modifiers:0, string:@"c", theKey:@"c"}
+36	30.954	keyDown	{modifiers:0, string:@"o", theKey:@"o"}
+37	31.004	keyUp	{modifiers:0, string:@"o", theKey:@"o"}
+38	31.098	keyDown	{modifiers:0, string:@"m", theKey:@"m"}
+39	31.197	keyUp	{modifiers:0, string:@"m", theKey:@"m"}
+40	32.514	keyDown	{modifiers:0, string:@"\r", theKey:@"\r"}
+41	32.665	keyUp	{modifiers:0, string:@"\r", theKey:@"\r"}
+42	46.927	end	

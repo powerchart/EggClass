@@ -1,0 +1,5 @@
+﻿2018-05-24 16:19:26.666 +0530	START		Running Master.script
+2018-05-24 16:19:26.751 +0530	Log		powerchart	1	on_torbocapture	Torbocapture.script
+2018-05-24 16:19:26.814 +0530	Log		patientchart	1	on_day3	Day3.script
+2018-05-24 16:19:26.987 +0530	EndTestCase		(Duration:"0.317", Errors:"0", Exceptions:"0", StartTime:"2018-05-24 16:19:26 +0530", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-05-24 16:19:27.016 +0530	SUCCESS		Execution Time 0:00:00 Master.script

@@ -1,0 +1,177 @@
+﻿//Divisible by 2
+Put(1,2,3,4) into temp
+repeat with each item of temp
+	if it is divisible by 2
+		put it
+	else 
+		log"No"
+	end if
+end repeat
+
+//LOG
+4  types of logging result
+1. Log- 
+2.Logsuccess
+3.Logerror
+4.Logwarning
+
+Log "I  am fine"
+Logerror"I am not fine"
+Logsuccess"I am good"
+Logwarning"I am better"
+
+
+put 10 into a
+put 5 into B
+
+If (a>b)
+	Logsuccess"A is greater"
+else 
+	Logerror"B is greater"
+End If
+*////////////////////////////////////////////////////////////////////////////////////////////////*
+
+//Assert
+
+assert a>b with "a>b"
+assert a>b with error "a>b"
+assert a>b with warning "a>b"
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//Functions:
+1. On
+2. To
+3. Funcation
+
+on Door
+	Log "I  am fine"
+End Door
+
+to Add a,b
+	
+	Put a+b into C
+	Return C
+	
+End Add
+
+To Sub
+	Log "I am fine"
+End sub
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//External files- Notepad
+
+
+Put file ResourcePath("Eggplant-notepad.txt") into LP
+log LP
+//Delete every occurrence of "\n" from LP
+log LP
+
+
+Put line 2 of Lp into res
+log res
+
+Put the number of lines of LP into count
+log count
+
+Repeat count times
+	
+	log line repeatindex() of LP 
+	
+End Repeat
+
+Put file ResourcePath("Eggplant-notepad.txt") into LP
+log LP
+
+repeat with each line of LP
+	log it
+end repeat
+
+********************************************************************
+
+//writing into the file
+put file ResourcePath("Eggplant-notepad.txt") into txtfile
+log txtfile
+
+open file txtfile for readwrite
+
+put"new line text5" into newvalue
+write return to file txtfile at eof
+write newvalue to file txtfile
+close file txtfile
+
+put ResourcePath("Eggplant-notepad.txt") into txtfile
+log txtfile
+
+
+//External file from CSV
+
+put file ResourcePath("Eggplant-notepad.txt")  into txtfile
+log txtfile
+
+
+put file ResourcePath("Training.csv") into kp
+log KP
+put number of lines of KP into count
+
+Repeat count times
+	log  line repeatindex() of KP 
+	
+End Repeat
+
+//Xlsx
+
+put table(solgm) of (type:"excel" ,file:ResourcePath("tra-1.xlsx")) into Testdata
+put the records of testdata into New
+
+set ma to new.Username
+log ma
+
+
+
+capturescreen (name:"radopen")
+
+CaptureScreen (Name: "rad")
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//Helper suites
+put table(Solm64) of (type:"excel",file:ResourcePath("VRs/PAP-VR-Initiate Phase-IV Set-Recalculate Rate On Modify.xlsx")) into myexcel
+put the records of myexcel into testdata
+
+Set domain to TestData.Domain
+log domain
+
+
+put table(SOLGM) of (Type:"excel",file:ResourcePath("tra-1.xlsx") ) into res
+
+put the records of res  into new
+log new
+
+log new.username
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

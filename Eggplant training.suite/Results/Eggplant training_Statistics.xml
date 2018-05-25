@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Torbocapture">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-05-24 16:20:14 +0530</FirstRun>
+  <LastRun>2018-05-24 16:20:14 +0530</LastRun>
+  <TotalTimeOnSuccess>0.048000</TotalTimeOnSuccess>
+ </script>
+ <script name="Day3">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-05-24 16:20:14 +0530</FirstRun>
+  <LastRun>2018-05-24 16:20:14 +0530</LastRun>
+  <TotalTimeOnSuccess>0.018000</TotalTimeOnSuccess>
+ </script>
+ <script name="Master">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-05-24 16:19:26 +0530</FirstRun>
+  <LastRun>2018-05-24 16:20:14 +0530</LastRun>
+  <TotalTimeOnSuccess>0.711000</TotalTimeOnSuccess>
+ </script>
+</statistics>

@@ -1,0 +1,255 @@
+﻿
+
+
+
+
+
+//Basic options
+click,doubleclick
+typetext
+Wait
+log 
+
+//different sections
+
+// capture image"Chrome_first"
+
+Doubleclick "Chrome_first"
+
+//good and bad images and noise
+
+// 
+Doubleclick "Chrome_first"
+WaitFor 30, "Refreshicon"
+Click "Refreshicon"
+
+Typetext "www.amazon.com"
+Typetext Returnkey
+
+
+//relative hotspot
+
+//Begintestcases
+Begintestcase Chrome
+
+Doubleclick "Chrome_first"
+WaitFor 30, "Refreshicon"
+Click "Refreshicon"
+
+Typetext "www.amazon.com"
+Typetext Returnkey
+capturescreen ("after logging into site")
+
+
+Endtestcase chrome
+
+//startmovie- which records the script flow without any additional tool
+
+Startmovie "C:Users\rs046926\Desktop\EggPlant"
+Doubleclick "Chrome_first"
+WaitFor 30, "Refreshicon"
+Click "Refreshicon"
+
+Typetext "www.amazon.com"
+Typetext Returnkey
+capturescreen ("after logging into site")
+stopmovie
+
+
+//create collection
+click "Chrome_first"
+
+//Imagefound
+
+if imagefound("Chrome_first")
+	logsuccess"image found"
+else
+	logerror"not found"
+	
+end if
+
+//everyimagelocation
+put EveryImageLocation("Chrome_first/Chrome_first")  into list
+log list
+click item 2 of list
+
+//foundimagelocation()
+if imagefound("Chrome_first")
+	click foundimagelocation()
+end if
+
+
+//Repeatindex()
+//repeat count times
+
+put ("apple","banana","grapes") into fruits
+
+put the number of items of fruits into count
+log count
+
+
+repeat count times
+	log item repeatindex() of fruits 
+end repeat
+
+//Repeat untill
+
+
+repeat until imagefound( "Accessorieswith")
+	if ImageFound("Chrome_first/Chrome_first")
+		click foundimagelocation()
+		
+	else
+		typetext pagedown
+		wait 3
+	end if
+	
+end repeat
+
+
+//put and insert difference
+
+
+//Repeat while 
+put 10 into a
+put 200 into b
+repeat while (a<b)
+	
+	add a to a
+	log a
+end repeat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//If else statements condition statements
+
+Put 10 into a
+put 20 into B
+
+If(a>b)
+	logsucess"a is greater"
+else
+	logerror "B is greater"
+End If
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Repeat
+Put ("apple","banana","Pineapple","Grapes") into Fruits
+Log fruits
+put the number of items of fruits into count
+log count
+
+Repeat count times
+	log item repeatindex() of fruits
+End Repeat
+
+Put ("apple","banana","Pineapple","Grapes") into Fruits
+Log fruits
+
+Repeat with each item of fruits
+	Log it
+End Repeat
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Insert and put  //put - overrides , insert appends
+Put ("apple","banana","Pineapple","Grapes") into Fruits
+Log fruits
+put"Watermelon" into fruits
+log fruits
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Everyimagelocation
+put everyimagelocation ("Chrome_Icon") into Images
+wait 4
+doubleclick item 2 of images
+
+(*
+repeat until Imagefound(imagename:"Chrome_Icon")
+	if ImageFound("Chrome_Icon")
+		double foundimagelocation()
+	else
+		typetext pagedown
+	end repeat
+
+
+put 10 into x
+put 20 into y
+repeat while x is greater than y
+	log add (x+y)
+end repeat
+*)
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//Foundimagelocation
+If (ImageFound(2, "Chrome_Icon"))
+	click foundimagelocation()
+	wait 4
+End If
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+//moveto
+If (ImageFound(2, "Chrome_Icon"))
+	moveto foundimagelocation()
+	wait 4
+End If
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+//startmovie
+startmovie browser
+doubleclick "Chrome_Icon"
+wait 5
+stopmovie
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+step 
+
+put "Test" into Var1
+
+Put 5 into number
+
+Repeat number times
+	put repeatindex() into Var2
+	
+	put "1" into Test1
+	put "2" into Test1
+	
+	if number = Var2 then
+		LogSuccess "Done"	
+	else
+		Log "NULL"
+	end if
+End Repeat
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2018-05-20 16:18:35
+  From session:  Turbo
+  Captured on:  2018-05-20 16:13:24
+  From server:  10171114159
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+startmovie testing
+DoubleClick "image0002"
+Click (Image:"refresh_turbo", WaitFor:33)
+TypeText "www.amazon.com",Return
+stopmovie
