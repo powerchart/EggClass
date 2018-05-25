@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-05-24 16:19:45.022 +0530,"Failure",0:00:00,1,0,0,"20180524_161945.022/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got ''.",0
+2018-05-24 16:20:44.171 +0530,"Success",0:00:00,0,0,0,"20180524_162044.171/LogFile.txt","","",1
+2018-05-24 16:21:14.392 +0530,"Success",0:00:00,0,0,0,"20180524_162114.392/LogFile.txt","","",1

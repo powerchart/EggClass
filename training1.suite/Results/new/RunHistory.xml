@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="new">
+ <run>
+  <RunDate>2018-05-24 16:19:45.022 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.508000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180524_161945.022/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-24 16:20:44.171 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.424000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180524_162044.171/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-24 16:21:14.392 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.662000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180524_162114.392/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

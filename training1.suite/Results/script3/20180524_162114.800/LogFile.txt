@@ -1,0 +1,4 @@
+﻿2018-05-24 16:21:14.812 +0530	START		Running script3.script	2	on_new	new.script
+2018-05-24 16:21:14.821 +0530	Log		script	2	on_script3	script3.script
+2018-05-24 16:21:14.830 +0530	EndTestCase		(Duration:"0.011", Errors:"0", Exceptions:"0", StartTime:"2018-05-24 16:21:14 +0530", Successes:"1", TestCase:"script3.script", Warnings:"0")	2	on_new	new.script
+2018-05-24 16:21:14.889 +0530	SUCCESS		Execution Time 0:00:00 script3.script	2	on_new	new.script

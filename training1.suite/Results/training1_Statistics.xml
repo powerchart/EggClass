@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="new">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2018-05-24 16:19:45 +0530</FirstRun>
+  <LastRun>2018-05-24 16:21:14 +0530</LastRun>
+  <TotalTimeOnSuccess>1.086000</TotalTimeOnSuccess>
+ </script>
+ <script name="script1">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>12</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2018-05-23 10:52:50 +0530</FirstRun>
+  <LastRun>2018-05-23 16:56:39 +0530</LastRun>
+  <TotalTimeOnSuccess>69.421000</TotalTimeOnSuccess>
+ </script>
+ <script name="script3">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-05-24 16:21:14 +0530</FirstRun>
+  <LastRun>2018-05-24 16:21:14 +0530</LastRun>
+  <TotalTimeOnSuccess>0.027000</TotalTimeOnSuccess>
+ </script>
+ <script name="sript2">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-05-24 16:21:14 +0530</FirstRun>
+  <LastRun>2018-05-24 16:21:14 +0530</LastRun>
+  <TotalTimeOnSuccess>0.118000</TotalTimeOnSuccess>
+ </script>
+</statistics>

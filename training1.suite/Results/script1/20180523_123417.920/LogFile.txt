@@ -1,0 +1,12 @@
+﻿2018-05-23 12:34:17.927 +0530	START		Running script1.script
+2018-05-23 12:34:18.766 +0530	doubleclick	eInternetExplorer	at (113, 456)	2	on_script1	script1.script
+2018-05-23 12:34:19.833 +0530	click	image0001	at (122, 32)	3	on_script1	script1.script
+2018-05-23 12:34:21.125 +0530	typetext		www.amazon.com	4	on_script1	script1.script
+2018-05-23 12:34:21.842 +0530	typetext		[returnKey]	5	on_script1	script1.script
+2018-05-23 12:34:22.627 +0530	waitfor	categories	found at (209, 129)	8	on_script1	script1.script
+2018-05-23 12:34:23.261 +0530	click	categories	at (209, 129)	9	on_script1	script1.script
+2018-05-23 12:34:24.276 +0530	typetext		[pageDown]	10	on_script1	script1.script
+2018-05-23 12:34:25.015 +0530	typetext		[pageDown]	11	on_script1	script1.script
+2018-05-23 12:34:51.757 +0530	Exception	movies and tv	No Image Found On Screen: "movies and tv"	12	on_script1	script1.script
+2018-05-23 12:34:51.926 +0530	EndTestCase		(Duration:"33.99", Errors:"1", Exceptions:"1", StartTime:"2018-05-23 12:34:17 +0530", Successes:"0", TestCase:"script1.script", Warnings:"0")
+2018-05-23 12:34:52.707 +0530	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "movies and tv" -- Execution Time 0:00:34 script1.script

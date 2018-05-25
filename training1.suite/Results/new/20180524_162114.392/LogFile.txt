@@ -1,0 +1,5 @@
+﻿2018-05-24 16:21:14.400 +0530	START		Running new.script
+2018-05-24 16:21:14.550 +0530	runwithnewresults		sript2.script (C:/training/training1.suite/Results/sript2/20180524_162114.536/LogFile.txt)	1	on_new	new.script
+2018-05-24 16:21:14.807 +0530	runwithnewresults		script3.script (C:/training/training1.suite/Results/script3/20180524_162114.800/LogFile.txt)	2	on_new	new.script
+2018-05-24 16:21:15.057 +0530	EndTestCase		(Duration:"0.648", Errors:"0", Exceptions:"0", StartTime:"2018-05-24 16:21:14 +0530", Successes:"3", TestCase:"new.script", Warnings:"0")
+2018-05-24 16:21:15.104 +0530	SUCCESS		Execution Time 0:00:01 new.script

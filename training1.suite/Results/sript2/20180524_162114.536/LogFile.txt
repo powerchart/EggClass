@@ -1,0 +1,4 @@
+﻿2018-05-24 16:21:14.558 +0530	START		Running sript2.script	1	on_new	new.script
+2018-05-24 16:21:14.647 +0530	Log		return	2	on_sript2	sript2.script
+2018-05-24 16:21:14.658 +0530	EndTestCase		(Duration:"0.089", Errors:"0", Exceptions:"0", StartTime:"2018-05-24 16:21:14 +0530", Successes:"1", TestCase:"sript2.script", Warnings:"0")	1	on_new	new.script
+2018-05-24 16:21:14.711 +0530	SUCCESS		Execution Time 0:00:00 sript2.script	1	on_new	new.script

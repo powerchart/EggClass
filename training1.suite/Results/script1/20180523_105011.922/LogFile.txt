@@ -1,0 +1,6 @@
+﻿2018-05-23 10:50:11.930 +0530	START		Running script1.script
+2018-05-23 10:50:12.201 +0530	click		at current mouse point (113, 456)	1	on_script1	script1.script
+2018-05-23 10:50:13.206 +0530	typetext			3	on_script1	script1.script
+2018-05-23 10:50:35.958 +0530	Exception	eInternetExplorer	No Image Found On Screen: "eInternetExplorer"	4	on_script1	script1.script
+2018-05-23 10:50:36.080 +0530	EndTestCase		(Duration:"24.135", Errors:"1", Exceptions:"1", StartTime:"2018-05-23 10:50:11 +0530", Successes:"0", TestCase:"script1.script", Warnings:"0")
+2018-05-23 10:50:36.084 +0530	ABORTED		Execution Time 0:00:25 script1.script

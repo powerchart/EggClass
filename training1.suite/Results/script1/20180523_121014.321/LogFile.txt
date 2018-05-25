@@ -1,0 +1,9 @@
+﻿2018-05-23 12:10:14.339 +0530	START		Running script1.script
+2018-05-23 12:10:14.981 +0530	doubleclick	eInternetExplorer	at (113, 456)	2	on_script1	script1.script
+2018-05-23 12:10:15.942 +0530	click	image0001	at (122, 32)	3	on_script1	script1.script
+2018-05-23 12:10:21.962 +0530	typetext		www.amazon.com	4	on_script1	script1.script
+2018-05-23 12:10:23.824 +0530	typetext		[returnKey]	5	on_script1	script1.script
+2018-05-23 12:10:25.519 +0530	waitfor	carticon	found at (1842, 173)	8	on_script1	script1.script
+2018-05-23 12:10:27.409 +0530	click	carticon	at (1842, 173)	9	on_script1	script1.script
+2018-05-23 12:10:29.771 +0530	EndTestCase		(Duration:"15.417", Errors:"0", Exceptions:"0", StartTime:"2018-05-23 12:10:14 +0530", Successes:"1", TestCase:"script1.script", Warnings:"0")
+2018-05-23 12:10:29.836 +0530	SUCCESS		Execution Time 0:00:15 script1.script

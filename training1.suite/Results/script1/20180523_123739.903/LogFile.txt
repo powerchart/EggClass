@@ -1,0 +1,4 @@
+﻿2018-05-23 12:37:39.911 +0530	START		Running script1.script
+2018-05-23 12:38:39.183 +0530	Exception	eInternetExplorer	No Image Found On Screen: "eInternetExplorer"	2	on_script1	script1.script
+2018-05-23 12:38:39.332 +0530	EndTestCase		(Duration:"59.409", Errors:"1", Exceptions:"1", StartTime:"2018-05-23 12:37:39 +0530", Successes:"0", TestCase:"script1.script", Warnings:"0")
+2018-05-23 12:38:39.337 +0530	ABORTED		Execution Time 0:01:00 script1.script

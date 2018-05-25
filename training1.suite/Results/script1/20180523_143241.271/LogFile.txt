@@ -1,0 +1,17 @@
+﻿2018-05-23 14:32:41.278 +0530	START		Running script1.script
+2018-05-23 14:32:41.419 +0530	BeginTestCase		Chrome	1	on_script1	script1.script
+2018-05-23 14:32:42.162 +0530	doubleclick	eInternetExplorer	at (113, 456)	2	on_script1	script1.script
+2018-05-23 14:32:43.177 +0530	click	image0001	at (122, 32)	3	on_script1	script1.script
+2018-05-23 14:32:44.059 +0530	typetext		www.amazon.com	4	on_script1	script1.script
+2018-05-23 14:32:44.774 +0530	typetext		[returnKey]	5	on_script1	script1.script
+2018-05-23 14:32:46.282 +0530	waitfor	categories	found at (209, 129)	8	on_script1	script1.script
+2018-05-23 14:32:47.104 +0530	click	categories	at (209, 129)	9	on_script1	script1.script
+2018-05-23 14:32:48.122 +0530	typetext		[pageDown]	10	on_script1	script1.script
+2018-05-23 14:32:48.842 +0530	typetext		[pageDown]	11	on_script1	script1.script
+2018-05-23 14:32:54.619 +0530	click	movies and tv	at (238, 399)	12	on_script1	script1.script
+2018-05-23 14:32:55.964 +0530	click	amazon search	at (1334, 130)	13	on_script1	script1.script
+2018-05-23 14:32:57.502 +0530	typetext		The Big Bang Theory Seasons	14	on_script1	script1.script
+2018-05-23 14:32:57.506 +0530	LogSuccess		page found	15	on_script1	script1.script
+2018-05-23 14:32:57.580 +0530	EndTestCase		(Duration:"16.157", Errors:"0", Exceptions:"0", StartTime:"2018-05-23 14:32:41 +0530", Successes:"1", TestCase:"Chrome", Warnings:"0")	17	on_script1	script1.script
+2018-05-23 14:32:57.700 +0530	EndTestCase		(Duration:"16.413", Errors:"0", Exceptions:"0", StartTime:"2018-05-23 14:32:41 +0530", Successes:"1", TestCase:"script1.script", Warnings:"0")
+2018-05-23 14:32:57.789 +0530	SUCCESS		Execution Time 0:00:16 script1.script

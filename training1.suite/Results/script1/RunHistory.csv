@@ -1,0 +1,18 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-05-23 10:50:11.922 +0530,"Running",0:00:00,0,0,0,"20180523_105011.922/LogFile.txt","","",0
+2018-05-23 10:52:50.981 +0530,"Success",0:00:02,0,0,0,"20180523_105250.981/LogFile.txt","","",1
+2018-05-23 10:58:37.525 +0530,"Success",0:00:02,0,0,0,"20180523_105837.525/LogFile.txt","","",1
+2018-05-23 11:34:00.676 +0530,"Running",0:00:00,0,0,0,"20180523_113400.676/LogFile.txt","","",0
+2018-05-23 11:34:48.175 +0530,"Success",0:00:02,0,0,0,"20180523_113448.175/LogFile.txt","","",1
+2018-05-23 11:42:55.557 +0530,"Running",0:00:00,0,0,0,"20180523_114255.557/LogFile.txt","","",0
+2018-05-23 12:10:14.321 +0530,"Success",0:00:15,0,0,0,"20180523_121014.321/LogFile.txt","","",1
+2018-05-23 12:32:23.112 +0530,"Failure",0:00:32,1,0,1,"20180523_123223.112/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""movies and tv""",0
+2018-05-23 12:33:52.102 +0530,"Running",0:00:00,0,0,0,"20180523_123352.102/LogFile.txt","","",0
+2018-05-23 12:34:17.920 +0530,"Failure",0:00:34,1,0,1,"20180523_123417.920/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""movies and tv""",0
+2018-05-23 12:37:39.903 +0530,"Running",0:00:00,0,0,0,"20180523_123739.903/LogFile.txt","","",0
+2018-05-23 14:07:01.524 +0530,"Failure",0:00:41,1,0,1,"20180523_140701.524/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""thebigbangtheoryseason10""",0
+2018-05-23 14:09:07.251 +0530,"Failure",0:00:24,1,0,1,"20180523_140907.251/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""eInternetExplorer""",0
+2018-05-23 14:09:43.756 +0530,"Success",0:00:15,0,0,0,"20180523_140943.756/LogFile.txt","","",1
+2018-05-23 14:19:15.192 +0530,"Success",0:00:14,0,0,0,"20180523_141915.192/LogFile.txt","","",1
+2018-05-23 14:32:41.271 +0530,"Success",0:00:16,0,0,0,"20180523_143241.271/LogFile.txt","","",1
+2018-05-23 16:56:39.950 +0530,"Failure",0:00:00,1,0,0,"20180523_165639.950/LogFile.txt","","SenseTalk Compiler Exception -- in script1:\nSyntax Error at line 55: Syntax Error - can't understand ""end"" at or near character 872",0

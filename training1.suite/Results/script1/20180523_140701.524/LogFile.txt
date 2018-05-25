@@ -1,0 +1,17 @@
+﻿2018-05-23 14:07:01.532 +0530	START		Running script1.script
+2018-05-23 14:07:01.710 +0530	BeginTestCase		Chrome	1	on_script1	script1.script
+2018-05-23 14:07:02.110 +0530	doubleclick	eInternetExplorer	at (113, 456)	2	on_script1	script1.script
+2018-05-23 14:07:03.162 +0530	click	image0001	at (122, 32)	3	on_script1	script1.script
+2018-05-23 14:07:04.362 +0530	typetext		www.amazon.com	4	on_script1	script1.script
+2018-05-23 14:07:05.079 +0530	typetext		[returnKey]	5	on_script1	script1.script
+2018-05-23 14:07:06.596 +0530	waitfor	categories	found at (209, 129)	8	on_script1	script1.script
+2018-05-23 14:07:07.264 +0530	click	categories	at (209, 129)	9	on_script1	script1.script
+2018-05-23 14:07:08.135 +0530	typetext		[pageDown]	10	on_script1	script1.script
+2018-05-23 14:07:08.921 +0530	typetext		[pageDown]	11	on_script1	script1.script
+2018-05-23 14:07:14.016 +0530	click	movies and tv	at (238, 399)	12	on_script1	script1.script
+2018-05-23 14:07:15.448 +0530	click	amazon search	at (1334, 130)	13	on_script1	script1.script
+2018-05-23 14:07:16.959 +0530	typetext		The Big Bang Theory Seasons	14	on_script1	script1.script
+2018-05-23 14:07:43.202 +0530	Exception	thebigbangtheoryseason10	No Image Found On Screen: "thebigbangtheoryseason10"	15	on_script1	script1.script
+2018-05-23 14:07:43.259 +0530	EndTestCase		(Duration:"41.547", Errors:"1", Exceptions:"1", StartTime:"2018-05-23 14:07:01 +0530", Successes:"0", TestCase:"Chrome", Warnings:"0")
+2018-05-23 14:07:43.262 +0530	EndTestCase		(Duration:"41.722", Errors:"1", Exceptions:"1", StartTime:"2018-05-23 14:07:01 +0530", Successes:"0", TestCase:"script1.script", Warnings:"0")
+2018-05-23 14:07:44.287 +0530	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "thebigbangtheoryseason10" -- Execution Time 0:00:42 script1.script

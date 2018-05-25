@@ -1,0 +1,25 @@
+{
+    commandList = "[{captureRect:[91, 609, 141, 636], command:@\"DoubleClick\", eventNum:2, hotSpot:[122, 449], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0003\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0002.png\"}, {captureRect:[259, 1043, 329, 1073], command:@\"Click\", eventNum:6, hotSpot:[294, 22], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0004\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0006.png\"}, {captureRect:[74, 1029, 144, 1059], command:@\"Click\", eventNum:8, hotSpot:[290, 28], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0005\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0008.png\"}, {command:@\"TypeText\", eventNum:10, screenShotFile:@\"Screen0010.png\", text:@\"Backspace\"}, {command:@\"TypeText\", eventNum:11, screenShotFile:@\"Screen0010.png\", text:@\"DownArrow,Return\"}, {captureRect:[1004, 934, 1074, 964], command:@\"Click\", eventNum:16, hotSpot:[1039, 131], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0006\", searchType:@\"Precise\", waitFor:@\"5.1\"}, screenShotFile:@\"Screen0016.png\", waitFor:@\"5.1\"}, {captureRect:[1004, 934, 1074, 964], command:@\"Click\", eventNum:18, hotSpot:[1039, 131], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0007\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"Screen0018.png\"}, {command:@\"TypeText\", eventNum:20, screenShotFile:@\"Screen0020.png\", text:@\"\\\"oneplus6\\\"\"}, {command:@\"TypeText\", eventNum:35, screenShotFile:@\"Screen0020.png\", text:@\"RightArrow,Return\"}]";
+    generatedCommands = (
+	"DoubleClick \"image0003\"",
+	"Click \"image0004\"",
+	"Click \"image0005\"",
+	"TypeText Backspace",
+	"TypeText DownArrow,Return",
+	"Click (Image:\"image0006\", WaitFor:5.1)",
+	"Click \"image0007\"",
+	"TypeText \"oneplus6\"",
+	"TypeText RightArrow,Return"
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "image0003.png",
+	    "image0004.png",
+	    "image0005.png",
+	    "image0006.png",
+	    "image0007.png"
+	);
+    };
+    sessionType = turboSession;
+    unnamedImageCount = <*I0>;
+}

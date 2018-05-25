@@ -1,0 +1,82 @@
+﻿begintestcase Chrome
+DoubleClick "eInternetExplorer"
+Click "image0001"
+TypeText "www.amazon.com"
+TypeText returnKey
+
+
+waitfor 30,"categories"
+Click "categories"
+TypeText pageDown
+TypeText pageDown
+Click "movies and tv"
+Click "amazon search"
+TypeText "The Big Bang Theory Seasons"
+LogSuccess "page found"
+
+EndTestCase Chrome
+
+put EveryImageLocation( "eInternetExplorer") into chromecount
+DoubleClick item 2 of chromecount
+
+if ImageFound( "eInternetExplorer")
+	click FoundImageLocation()
+end if
+
+
+put ("1","2","34") into var
+insert "44" into var
+put the number of items of var into count
+repeat count times
+	log item repeatindex() of var
+end repeat
+
+repeat with each item of var
+	log it
+end repeat
+
+
+repeat until imagefound("end condition")
+	if(ImageFound("book i want"))
+		click FoundImageLocation()
+	else
+		TypeText pageDown
+		wait 3
+		
+	end if
+end repeat
+
+Click (Text:"Cart",waitfor:10)
+put ReadText(1601,112,1819,146) into x
+log x
+set  the searchRectangle to ("startpoint","endpoint")
+MoveTo(text:"Orders",waitfor:10)
+
+put imagelocation("startpoint") into anchorpoint
+log anchorpoint
+insert anchorpoint-(800,0) into p1
+log p1
+insert anchorpoint+(0,400) into p2
+log p2
+set the searchRectangle to (p1,p2)
+wait 10
+
+set  the searchRectangle to ("startpoint","endpoint")
+Click "categories"
+Click (Text:"Men",CaseSensitive:ON,waitfor:10)
+wait 10
+
+
+put file ResourcePath("Training.csv") into results
+put the number of lines of results into count
+repeat count times
+	log line repeatindex() of results
+end repeat
+
+end repeat
+put table(Table1)of(type:"excel",file:ResourcePath("demo.xlsx"))into res
+put the records of res into new
+
+log new
+
+
