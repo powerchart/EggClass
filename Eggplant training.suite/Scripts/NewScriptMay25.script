@@ -1,0 +1,6 @@
+﻿//OCR Optical Character Recognition.How to read a text at a location.Ctrl C, Ctrl V
+
+put readtext((1589,136,1814,162))into x
+log x
+
+log readtext((1589,136,1814,162))
