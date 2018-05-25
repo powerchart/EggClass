@@ -1,3 +1,0 @@
-﻿Doubleclick "Chrome_first"
-WaitFor 30, "Refreshicon"
-Click "Refreshicon"
