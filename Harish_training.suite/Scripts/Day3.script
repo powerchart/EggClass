@@ -1,0 +1,9 @@
+﻿
+
+put table(Sheet1) of (type:"excel", file: ResourcePath("eggplant-excel.xlsx")) into res
+
+put the records of res into new
+log new
+
+
+log new.username
