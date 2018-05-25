@@ -1,0 +1,8 @@
+﻿Put(1,2,3,4) into temp
+repeat with each item of temp
+	if it is divisible by 2
+		put it
+	else 
+		log"No"
+	end if
+end repeat

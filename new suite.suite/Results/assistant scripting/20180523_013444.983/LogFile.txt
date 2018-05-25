@@ -1,0 +1,4 @@
+﻿2018-05-23 01:34:44.991 -0500	START		Running assistant scripting.script
+2018-05-23 01:34:45.327 -0500	doubleclick	chrome double click	at (112, 665)	1	on_assistant_scripting	assistant scripting.script
+2018-05-23 01:34:45.482 -0500	EndTestCase		(Duration:"0.482", Errors:"0", Exceptions:"0", StartTime:"2018-05-23 01:34:44 -0500", Successes:"1", TestCase:"assistant scripting.script", Warnings:"0")
+2018-05-23 01:34:45.534 -0500	SUCCESS		Execution Time 0:00:01 assistant scripting.script

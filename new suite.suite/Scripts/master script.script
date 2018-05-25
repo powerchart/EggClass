@@ -1,0 +1,4 @@
+﻿run "test1".door2
+
+put  "test1".test (10,20) into d
+log d

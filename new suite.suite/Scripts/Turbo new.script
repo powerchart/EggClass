@@ -1,0 +1,10 @@
+(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2018-05-23 01:27:46
+  From session:  Turbo new
+  Captured on:  2018-05-23 01:21:09
+  From server:  1017113456
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+DoubleClick "chrome turbo"
+Click "cursor"
+TypeText "www.amazon.com",Return

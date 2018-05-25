@@ -1,0 +1,4 @@
+﻿2018-05-24 03:53:02.350 -0500	START		Running master script.script
+2018-05-24 03:53:02.663 -0500	Log		open the door	2	on_door	test1.script
+2018-05-24 03:53:02.837 -0500	EndTestCase		(Duration:"0.476", Errors:"0", Exceptions:"0", StartTime:"2018-05-24 03:53:02 -0500", Successes:"1", TestCase:"master script.script", Warnings:"0")
+2018-05-24 03:53:02.876 -0500	SUCCESS		Execution Time 0:00:00 master script.script

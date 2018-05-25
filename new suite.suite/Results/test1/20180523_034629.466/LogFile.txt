@@ -1,0 +1,8 @@
+﻿2018-05-23 03:46:29.477 -0500	START		Running test1.script
+2018-05-23 03:46:29.715 -0500	startmovie		C:/Egg plant/new suite.suite/Results/test1/20180523_034629.466/New.mkv	1	on_test1	test1.script
+2018-05-23 03:46:29.718 -0500	BeginTestCase		Test	2	on_test1	test1.script
+2018-05-23 03:46:30.207 -0500	doubleclick	chrome double click/chrome double click	at (112, 665)	3	on_test1	test1.script
+2018-05-23 03:47:21.489 -0500	Exception	chrome double click/chrome double click	Unable To Find Any Image On Screen "chrome double click/chrome double click" within 30.00 seconds	4	on_test1	test1.script
+2018-05-23 03:47:22.762 -0500	EndTestCase		(Duration:"53.041", Errors:"1", Exceptions:"1", StartTime:"2018-05-23 03:46:29 -0500", Successes:"0", TestCase:"Test", Warnings:"0")
+2018-05-23 03:47:22.769 -0500	EndTestCase		(Duration:"53.282", Errors:"1", Exceptions:"1", StartTime:"2018-05-23 03:46:29 -0500", Successes:"0", TestCase:"test1.script", Warnings:"0")
+2018-05-23 03:47:23.155 -0500	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "chrome double click/chrome double click" within 30.00 seconds -- Execution Time 0:00:53 test1.script

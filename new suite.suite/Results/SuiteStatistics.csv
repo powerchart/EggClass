@@ -1,0 +1,5 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+test1,Failure,33,14,2018-05-23 00:20:10 -0500,2018-05-24 00:32:17 -0500,0:00:07
+master script,Success,1,0,2018-05-24 03:53:02 -0500,2018-05-24 03:53:02 -0500,0:00:00
+Turbo new,Success,1,0,2018-05-23 01:28:13 -0500,2018-05-23 01:28:13 -0500,0:00:02
+assistant scripting,Success,2,0,2018-05-23 01:34:22 -0500,2018-05-23 01:34:44 -0500,0:00:00

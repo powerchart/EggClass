@@ -1,0 +1,7 @@
+﻿2018-05-23 01:04:26.158 -0500	START		Running test1.script
+2018-05-23 01:04:26.457 -0500	doubleclick	chrome	at (113, 672)	2	on_test1	test1.script
+2018-05-23 01:04:27.681 -0500	click	Refresh	at (250, 60)	3	on_test1	test1.script
+2018-05-23 01:04:28.560 -0500	typetext		www.amazon.com	4	on_test1	test1.script
+2018-05-23 01:04:29.278 -0500	typetext		[returnKey]	5	on_test1	test1.script
+2018-05-23 01:04:29.376 -0500	EndTestCase		(Duration:"3.208", Errors:"0", Exceptions:"0", StartTime:"2018-05-23 01:04:26 -0500", Successes:"1", TestCase:"test1.script", Warnings:"0")
+2018-05-23 01:04:29.457 -0500	SUCCESS		Execution Time 0:00:03 test1.script

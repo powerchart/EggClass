@@ -1,0 +1,38 @@
+1	0.00300002	start	
+2	3.101	mouseDown	{button:1, clickCount:1, hotSpot:[112, 670]}
+3	3.47	mouseUp	{button:1, clickCount:1, hotSpot:[112, 670]}
+4	3.482	mouseDown	{button:1, clickCount:2, hotSpot:[112, 670]}
+5	3.493	mouseUp	{button:1, clickCount:2, hotSpot:[112, 670]}
+6	9.645	mouseDown	{button:1, clickCount:1, hotSpot:[582, 59]}
+7	10.006	mouseUp	{button:1, clickCount:1, hotSpot:[582, 59]}
+8	10.807	keyDown	{modifiers:0, string:@"w", theKey:@"w"}
+9	11.192	keyUp	{modifiers:0, string:@"w", theKey:@"w"}
+10	11.2	keyDown	{modifiers:0, string:@"w", theKey:@"w"}
+11	11.209	keyUp	{modifiers:0, string:@"w", theKey:@"w"}
+12	11.222	keyDown	{modifiers:0, string:@"w", theKey:@"w"}
+13	11.294	keyUp	{modifiers:0, string:@"w", theKey:@"w"}
+14	12.114	keyDown	{modifiers:0, string:@".", theKey:@"."}
+15	12.28	keyUp	{modifiers:0, string:@".", theKey:@"."}
+16	12.598	keyDown	{modifiers:0, string:@"a", theKey:@"a"}
+17	12.733	keyUp	{modifiers:0, string:@"a", theKey:@"a"}
+18	12.802	keyDown	{modifiers:0, string:@"m", theKey:@"m"}
+19	12.888	keyUp	{modifiers:0, string:@"m", theKey:@"m"}
+20	12.906	keyDown	{modifiers:0, string:@"a", theKey:@"a"}
+21	12.998	keyUp	{modifiers:0, string:@"a", theKey:@"a"}
+22	13.167	keyDown	{modifiers:0, string:@"z", theKey:@"z"}
+23	13.263	keyUp	{modifiers:0, string:@"z", theKey:@"z"}
+24	13.517	keyDown	{modifiers:0, string:@"o", theKey:@"o"}
+25	13.608	keyUp	{modifiers:0, string:@"o", theKey:@"o"}
+26	13.777	keyDown	{modifiers:0, string:@"n", theKey:@"n"}
+27	13.867	keyUp	{modifiers:0, string:@"n", theKey:@"n"}
+28	14.623	keyDown	{modifiers:0, string:@".", theKey:@"."}
+29	14.719	keyUp	{modifiers:0, string:@".", theKey:@"."}
+30	14.837	keyDown	{modifiers:0, string:@"c", theKey:@"c"}
+31	14.934	keyUp	{modifiers:0, string:@"c", theKey:@"c"}
+32	15.009	keyDown	{modifiers:0, string:@"o", theKey:@"o"}
+33	15.091	keyUp	{modifiers:0, string:@"o", theKey:@"o"}
+34	15.267	keyDown	{modifiers:0, string:@"m", theKey:@"m"}
+35	15.329	keyUp	{modifiers:0, string:@"m", theKey:@"m"}
+36	15.927	keyDown	{modifiers:0, string:@"\r", theKey:@"\r"}
+37	16.002	keyUp	{modifiers:0, string:@"\r", theKey:@"\r"}
+38	22.677	end	

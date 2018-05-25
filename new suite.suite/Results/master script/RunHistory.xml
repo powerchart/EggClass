@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="master script">
+ <run>
+  <RunDate>2018-05-24 03:53:02.341 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.492000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180524_035302.341/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,36 @@
+1	0.00399995	start	
+2	2.478	mouseDown	{button:1, clickCount:1, hotSpot:[113, 665]}
+3	2.837	mouseUp	{button:1, clickCount:1, hotSpot:[113, 665]}
+4	2.875	mouseDown	{button:1, clickCount:2, hotSpot:[113, 665]}
+5	2.883	mouseUp	{button:1, clickCount:2, hotSpot:[113, 665]}
+6	14.017	mouseDown	{button:1, clickCount:1, hotSpot:[517, 64], waitFor:2.5859999656677246e+000}
+7	14.378	mouseUp	{button:1, clickCount:0, hotSpot:[517, 63]}
+8	15.607	keyDown	{modifiers:0, string:@"w", theKey:@"w"}
+9	15.985	keyUp	{modifiers:0, string:@"w", theKey:@"w"}
+10	15.996	keyDown	{modifiers:0, string:@"w", theKey:@"w"}
+11	16.009	keyUp	{modifiers:0, string:@"w", theKey:@"w"}
+12	16.094	keyDown	{modifiers:0, string:@"w", theKey:@"w"}
+13	16.21	keyUp	{modifiers:0, string:@"w", theKey:@"w"}
+14	16.268	keyDown	{modifiers:0, string:@".", theKey:@"."}
+15	16.374	keyUp	{modifiers:0, string:@".", theKey:@"."}
+16	17.29	keyDown	{modifiers:0, string:@"a", theKey:@"a"}
+17	17.466	keyUp	{modifiers:0, string:@"a", theKey:@"a"}
+18	17.542	keyDown	{modifiers:0, string:@"m", theKey:@"m"}
+19	17.633	keyUp	{modifiers:0, string:@"m", theKey:@"m"}
+20	17.675	keyDown	{modifiers:0, string:@"a", theKey:@"a"}
+21	17.768	keyUp	{modifiers:0, string:@"a", theKey:@"a"}
+22	18.014	keyDown	{modifiers:0, string:@"z", theKey:@"z"}
+23	18.123	keyUp	{modifiers:0, string:@"z", theKey:@"z"}
+24	18.227	keyDown	{modifiers:0, string:@"o", theKey:@"o"}
+25	18.3	keyUp	{modifiers:0, string:@"o", theKey:@"o"}
+26	18.468	keyDown	{modifiers:0, string:@"n", theKey:@"n"}
+27	18.539	keyUp	{modifiers:0, string:@"n", theKey:@"n"}
+28	18.875	keyDown	{modifiers:0, string:@".", theKey:@"."}
+29	18.969	keyUp	{modifiers:0, string:@".", theKey:@"."}
+30	19.028	keyDown	{modifiers:0, string:@"c", theKey:@"c"}
+31	19.171	keyUp	{modifiers:0, string:@"c", theKey:@"c"}
+32	19.226	keyDown	{modifiers:0, string:@"o", theKey:@"o"}
+33	19.334	keyUp	{modifiers:0, string:@"o", theKey:@"o"}
+34	19.468	keyDown	{modifiers:0, string:@"m", theKey:@"m"}
+35	19.528	keyUp	{modifiers:0, string:@"m", theKey:@"m"}
+36	30.704	end	

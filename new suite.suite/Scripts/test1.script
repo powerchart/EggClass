@@ -1,0 +1,270 @@
+﻿Startmovie New
+BeginTestCase Test
+DoubleClick  "chrome double click/chrome double click"
+WaitFor 30,"Refresh"
+
+click "Refresh"
+TypeText "www.amazon.com"
+typetext returnKey
+
+WaitFor 30,  "cart"
+LogSuccess "Cart found"
+
+click  "All dropdown"
+TypeText pageDown
+TypeText pageDown
+click "MoviesTV"
+
+
+
+
+
+
+
+EndTestCase Test
+StopMovie
+
+log "chrome is opened"
+LogSuccess "chrome opened sucessfully"
+LogError "chrome not opened"
+LogWarning "Heyy there is a warning"
+
+
+if ImageFound("chrome double click/chrome double click")
+	LogSuccess "chrome found"
+	else
+	LogError "not found"
+end if
+
+//put and set
+
+put "apple" into fruits
+log fruits
+
+set fruits to "mango"
+log fruits
+
+
+put 10 into num
+log num
+
+put 20 into num2
+
+if a<b
+	LogSuccess "b is greater"
+else
+	Log "a is lesser"
+	
+	
+end if
+
+//every image location
+
+put EveryImageLocation("chrome double click/chrome double click")into chromecount
+log chromecount
+DoubleClick item 2 of chromecount
+
+//repeat loop
+
+put ("apple","mango") into fruits
+log fruits
+
+put the number of items of fruits into count
+log count
+
+repeat count times
+	log item repeatIndex() of fruits
+end repeat
+
+
+repeat with each item of fruits
+	log it
+end repeat
+
+insert "orange" into fruits
+
+log fruits
+
+repeat until imagefound("coin")
+	if ImageFound("cap")
+		click FoundImageLocation()
+	else
+		TypeText pageDown
+		wait 3
+		
+	end if
+end repeat
+
+//repeat while
+
+put 10 into a
+put 20 into b
+
+repeat while(a<b)
+	add a to a
+	log a
+end repeat
+
+
+
+//ocr
+
+moveto(text:"cart",waitfor:10)
+click(text:"Cart",waitfor:10)
+Click (Text:"Orders",WaitFor:10)
+click(text:"Try Prime",WaitFor:10)
+
+// how to read text at a location
+MoveTo (1597,132,1820,168)
+
+put ReadText((1597,132,1820,168)) into x
+log x
+
+//searchrectnagle method1
+
+moveto(text:"Orders",searchrectangle:(1570,172,1876,241),waitfor:10)
+wait 10
+click(text:"Orders",searchrectangle:(1570,172,1876,241),waitfor:10)
+
+//search method2
+
+set the searchrectangle to (1570,172,1876,241)
+wait 1
+click(text:"Orders",waitfor:10)
+
+//search method3
+
+set the searchrectangle to ("oDelivert0VKansascity64101","cart2")
+wait 1
+
+//method 3 by images
+
+set the searchrectangle to ()
+set the searchrectangle to ("oDelivert0VKansascity64101","cart2")
+wait 1
+set variable to the searchRectangle
+put readtext(variable) into variable1
+log variable1
+
+
+//method 4 by passing images into variable
+
+put ImageLocation("oDelivert0VKansascity64101") into x
+put ImageLocation("cart2")into y
+
+set the searchrectangle to (x,y)
+wait 1
+set result to the searchrectangle
+
+log readtext(result)
+
+
+//method 5 by a static point
+
+put imagelocation("amazonNwTrvPrime") into AP
+log AP
+
+insert  AP+(-88,20) into newAP
+log newAP
+
+//method 5 static point for both to form rectangle
+
+//click all drop down and select men
+
+put imagelocation("AllDepartments") into AP
+log AP
+//moveto(text:"All",waitfor:10)
+click(text:"All",CaseSensitive:on,WaitFor:8)
+click
+
+
+//functions on  and function to
+on door
+	log "open the door"
+end door
+
+
+//to also can be used instead of function
+function test a,b
+	put a+b into c
+	return c
+end test
+
+
+
+To door2
+	log "called from to"
+End door2
+
+
+//displaying from external files  and the next set of code uses external file content to display using repeat loop
+put file ResourcePath("external.txt") into val
+log val
+
+log line 2 of val
+put the number of lines of val into count
+
+repeat count times
+	log line repeatindex() of val
+end repeat
+
+
+//writting into file
+
+
+put ResourcePath("external.txt") into txtfile
+log txtfile
+
+open file txtfile for readWrite
+put "additional line" into newvalue
+write return to file txtfile at eof
+write newvalue to file txtfile
+close file txtfile
+
+
+//csv file-- reading from a csv file
+
+put file ResourcePath("Training.csv")into kp
+log kp
+put number of lines of kp into count
+
+Repeat count times
+	log line repeatindex() of kp
+End Repeat
+
+
+//from excel files
+
+
+put table (SOLGM) of (Type:"excel",file:ResourcePath("data.xls.xlsx")) into res
+
+put the records of res into new
+log new
+
+log new.username
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

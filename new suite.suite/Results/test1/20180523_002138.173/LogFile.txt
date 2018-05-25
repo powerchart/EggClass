@@ -1,0 +1,4 @@
+﻿2018-05-23 00:21:38.185 -0500	START		Running test1.script
+2018-05-23 00:21:38.477 -0500	doubleclick	chrome	at (113, 672)	2	on_test1	test1.script
+2018-05-23 00:21:38.585 -0500	EndTestCase		(Duration:"0.388", Errors:"0", Exceptions:"0", StartTime:"2018-05-23 00:21:38 -0500", Successes:"1", TestCase:"test1.script", Warnings:"0")
+2018-05-23 00:21:38.677 -0500	SUCCESS		Execution Time 0:00:00 test1.script

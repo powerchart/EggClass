@@ -1,0 +1,438 @@
+﻿<?xml version="1.0"?>
+<runHistory script="test1">
+ <run>
+  <RunDate>2018-05-23 00:20:10.074 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.348000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_002010.074/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 00:20:53.855 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.536000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_002053.855/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 00:21:38.173 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.408000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_002138.173/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 00:29:45.250 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.551000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_002945.250/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 00:34:07.384 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>2.181000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_003407.384/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 01:04:26.150 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>3.222000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_010426.150/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 01:40:21.987 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>67.271000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_014021.987/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 01:42:06.523 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>26.081000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_014206.523/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 01:47:53.501 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>51.950000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180523_014753.501/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;chrome&quot; within 30.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 01:49:16.847 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>3.381000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_014916.847/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 01:50:03.161 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>3.470000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_015003.161/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 01:50:36.048 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>3.399000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_015036.048/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 01:51:47.962 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>3.400000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_015147.962/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 01:52:27.003 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>3.411000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_015227.003/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 02:02:06.875 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.384000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180523_020206.875/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- doubleclick Error - Could Not Open Image: chrome</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 02:03:01.766 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.360000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180523_020301.766/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- doubleclick Error - Could Not Open Image: chrome</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 02:05:04.291 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>3.352000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_020504.291/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 02:06:59.038 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>3.389000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_020659.038/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 02:10:32.590 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>5.601000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_021032.590/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 02:13:18.470 -0500</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20180523_021318.470/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 02:15:07.794 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>33.126000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180523_021507.794/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Departments&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 02:24:21.596 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>32.440000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180523_022421.596/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Departments&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 02:25:59.761 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>52.596000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180523_022559.761/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;chrome double click&quot; within 30.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 03:26:59.756 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>5.962000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_032659.756/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 03:37:06.077 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>25.912000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180523_033706.077/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;chrome double click&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 03:37:55.903 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>52.451000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180523_033755.903/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;chrome double click&quot; within 30.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 03:40:12.141 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>5.542000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_034012.141/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 03:46:29.466 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>53.293000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180523_034629.466/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;chrome double click/chrome double click&quot; within 30.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 03:49:09.754 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>7.683000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180523_034909.754/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 04:04:00.752 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>8.152000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20180523_040400.752/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 05:03:25.726 -0500</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20180523_050325.726/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 05:29:16.349 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>25.114000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180523_052916.349/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;chrome double click/chrome double click&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-23 05:54:25.717 -0500</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20180523_055425.717/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-24 00:29:08.613 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.029000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180524_002908.613/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in test1:
+Syntax Error at line 131: Syntax Error - can&#x27;t understand [end of line] at or near character 1917</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-24 00:30:11.959 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.032000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180524_003011.959/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in test1:
+Syntax Error at line 131: Syntax Error - can&#x27;t understand [end of line] at or near character 1917</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-05-24 00:32:17.364 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.027000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180524_003217.364/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in test1:
+Syntax Error at line 131: Syntax Error - can&#x27;t understand [end of line] at or near character 1917</ErrorMessage>
+ </run>
+</runHistory>

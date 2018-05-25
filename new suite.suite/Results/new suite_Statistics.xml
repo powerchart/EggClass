@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="test1">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>33</NumberOfRuns>
+  <NumberOfFails>14</NumberOfFails>
+  <FirstRun>2018-05-23 00:20:10 -0500</FirstRun>
+  <LastRun>2018-05-24 00:32:17 -0500</LastRun>
+  <TotalTimeOnSuccess>149.188000</TotalTimeOnSuccess>
+ </script>
+ <script name="master script">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-05-24 03:53:02 -0500</FirstRun>
+  <LastRun>2018-05-24 03:53:02 -0500</LastRun>
+  <TotalTimeOnSuccess>0.492000</TotalTimeOnSuccess>
+ </script>
+ <script name="Turbo new">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-05-23 01:28:13 -0500</FirstRun>
+  <LastRun>2018-05-23 01:28:13 -0500</LastRun>
+  <TotalTimeOnSuccess>2.857000</TotalTimeOnSuccess>
+ </script>
+ <script name="assistant scripting">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-05-23 01:34:22 -0500</FirstRun>
+  <LastRun>2018-05-23 01:34:44 -0500</LastRun>
+  <TotalTimeOnSuccess>1.008000</TotalTimeOnSuccess>
+ </script>
+</statistics>

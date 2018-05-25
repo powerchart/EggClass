@@ -1,0 +1,7 @@
+﻿2018-05-23 05:54:25.727 -0500	START		Running test1.script
+2018-05-23 05:54:25.920 -0500	startmovie		C:/Egg plant/new suite.suite/Results/test1/20180523_055425.717/New.mkv	1	on_test1	test1.script
+2018-05-23 05:54:25.924 -0500	BeginTestCase		Test	2	on_test1	test1.script
+2018-05-23 05:54:45.913 -0500	Exception	chrome double click/chrome double click	No Image Found On Screen: "chrome double click/chrome double click"	3	on_test1	test1.script
+2018-05-23 05:54:47.808 -0500	EndTestCase		(Duration:"21.882", Errors:"1", Exceptions:"1", StartTime:"2018-05-23 05:54:25 -0500", Successes:"0", TestCase:"Test", Warnings:"0")
+2018-05-23 05:54:47.816 -0500	EndTestCase		(Duration:"22.079", Errors:"1", Exceptions:"1", StartTime:"2018-05-23 05:54:25 -0500", Successes:"0", TestCase:"test1.script", Warnings:"0")
+2018-05-23 05:54:47.820 -0500	ABORTED		Execution Time 0:00:22 test1.script

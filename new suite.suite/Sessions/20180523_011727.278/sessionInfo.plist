@@ -1,0 +1,15 @@
+{
+    commandList = "[{captureRect:[89, 395, 136, 442], command:@\"DoubleClick\", eventNum:2, hotSpot:[113, 665], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0001\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"Screen0002.png\"}, {command:@\"Click\", eventNum:6, hotSpot:[517, 64], imageName:@\"\", screenShotFile:@\"Screen0006.png\", waitFor:@\"2.6\"}, {command:@\"TypeText\", eventNum:8, screenShotFile:@\"Screen0008.png\", text:@\"\\\"www.amazon.com\\\"\"}]";
+    generatedCommands = (
+	"DoubleClick \"image0001\"",
+	"Click \"\"",
+	"TypeText \"www.amazon.com\""
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "image0001.png"
+	);
+    };
+    sessionType = turboSession;
+    unnamedImageCount = <*I1>;
+}

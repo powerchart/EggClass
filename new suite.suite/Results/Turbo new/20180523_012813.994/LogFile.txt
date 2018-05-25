@@ -1,0 +1,6 @@
+﻿2018-05-23 01:28:14.006 -0500	START		Running Turbo new.script
+2018-05-23 01:28:14.626 -0500	doubleclick	chrome turbo	at (112, 670)	8	on_turbo_new	Turbo new.script
+2018-05-23 01:28:15.831 -0500	click	cursor	at (233, 61)	9	on_turbo_new	Turbo new.script
+2018-05-23 01:28:16.724 -0500	typetext		www.amazon.com[return]	10	on_turbo_new	Turbo new.script
+2018-05-23 01:28:16.855 -0500	EndTestCase		(Duration:"2.837", Errors:"0", Exceptions:"0", StartTime:"2018-05-23 01:28:14 -0500", Successes:"1", TestCase:"Turbo new.script", Warnings:"0")
+2018-05-23 01:28:16.907 -0500	SUCCESS		Execution Time 0:00:03 Turbo new.script

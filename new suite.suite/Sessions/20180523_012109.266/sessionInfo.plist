@@ -1,0 +1,18 @@
+{
+    commandList = "[{captureRect:[102, 409, 125, 431], command:@\"DoubleClick\", eventNum:2, hotSpot:[112, 670], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"chrome turbo\", searchType:@\"Smooth\", waitFor:@\"\"}, OCRText:@\"u9t\", screenShotFile:@\"Screen0002.png\", useOCR:@\"NO\"}, {captureRect:[194, 1002, 218, 1038], command:@\"Click\", eventNum:6, hotSpot:[269, 61], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"cursor\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"Screen0006.png\"}, {command:@\"TypeText\", eventNum:8, screenShotFile:@\"Screen0008.png\", text:@\"\\\"www.amazon.com\\\",Return\"}]";
+    generatedCommands = (
+	"DoubleClick \"chrome turbo\"",
+	"Click \"cursor\"",
+	"TypeText \"www.amazon.com\",Return"
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "chrome turbo.png",
+	    "cursor.png",
+	    "chrome turbo.png",
+	    "cursor.png"
+	);
+    };
+    sessionType = turboSession;
+    unnamedImageCount = <*I0>;
+}
